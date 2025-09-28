@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <product id="P001" category="Điện tử" price="15000000" currency="VND">
+        <name>Điện thoại thông minh X1</name>
+    </product>
+    <product id="P002" category="Thời trang" price="50" currency="USD">
+        <name>Áo khoác da</name>
+    </product>
+    <product id="P003" category="Sách" price="150000" currency="VND">
+        <name>Sách lập trình Python</name>
+    </product>
+    <product id="P004" category="Gia dụng" price="250" currency="USD">
+        <name>Máy pha cà phê tự động</name>
+    </product>
+    <product id="P005" category="Điện tử" price="25000000" currency="VND">
+        <name>Laptop siêu mỏng P5</name>
+    </product>
+    <product id="P006" category="Thời trang" price="350000" currency="VND">
+        <name>Giày thể thao A1</name>
+    </product>
+    <product id="P007" category="Sách" price="20" currency="USD">
+        <name>Tạp chí khoa học</name>
+    </product>
+</store>
