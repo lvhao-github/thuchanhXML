@@ -1,0 +1,10 @@
+<!ELEMENT store (product+)>
+
+<!ELEMENT product (name)>
+<!ATTLIST product
+    id       ID     #REQUIRED
+    category CDATA  #REQUIRED
+    price    CDATA  #REQUIRED
+    currency CDATA  #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
