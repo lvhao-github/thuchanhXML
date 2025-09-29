@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="sinhvien.xsd">
+
+    <student studentId="SV001">
+        <name>Trần Quốc An</name>
+        <id>SV001</id>
+        <subjects>
+            <subject>
+                <subject_name>Toán cao cấp</subject_name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subject_name>Lập trình hướng đối tượng</subject_name>
+                <score>9.0</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student studentId="SV002">
+        <name>Trần Gia Bảo</name>
+        <id>SV002</id>
+        <subjects>
+            <subject>
+                <subject_name>Văn học</subject_name>
+                <score>7.5</score>
+            </subject>
+            <subject>
+                <subject_name>Lịch sử</subject_name>
+                <score>8.0</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student studentId="SV003">
+        <name>Lê Văn Hào</name>
+        <id>SV003</id>
+        <subjects>
+            <subject>
+                <subject_name>Hệ cơ sở dữ liệu</subject_name>
+                <score>9.5</score>
+            </subject>
+            <subject>
+                <subject_name>Mạng máy tính</subject_name>
+                <score>8.8</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student studentId="SV004">
+        <name>Trần Bất An</name>
+        <id>SV004</id>
+        <subjects>
+            <subject>
+                <subject_name>Kinh tế vi mô</subject_name>
+                <score>7.0</score>
+            </subject>
+            <subject>
+                <subject_name>Tài chính doanh nghiệp</subject_name>
+                <score>8.2</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student studentId="SV005">
+        <name>Trần Gia Đình</name>
+        <id>SV005</id>
+        <subjects>
+            <subject>
+                <subject_name>Ngoại ngữ 1</subject_name>
+                <score>8.7</score>
+            </subject>
+            <subject>
+                <subject_name>Triết học</subject_name>
+                <score>6.5</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student studentId="SV006">
+        <name>Lê Văn Chương</name>
+        <id>SV006</id>
+        <subjects>
+            <subject>
+                <subject_name>Lý thuyết đồ thị</subject_name>
+                <score>9.1</score>
+            </subject>
+            <subject>
+                <subject_name>Kiến trúc máy tính</subject_name>
+                <score>8.0</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student studentId="SV007">
+        <name>Trần Quốc Tế</name>
+        <id>SV007</id>
+        <subjects>
+            <subject>
+                <subject_name>Thị giác máy tính</subject_name>
+                <score>9.8</score>
+            </subject>
+            <subject>
+                <subject_name>Trí tuệ nhân tạo</subject_name>
+                <score>9.9</score>
+            </subject>
+        </subjects>
+    </student>
+
+</class>

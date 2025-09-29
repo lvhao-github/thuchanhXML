@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="thuvien.xsd">
+
+    <book bookId="B001">
+        <title>Harry Potter và Hòn đá Phù thủy</title>
+        <author>J.K. Rowling</author>
+        <year>1997</year>
+        <genre>Fantasy</genre>
+    </book>
+
+    <book bookId="B002">
+        <title>Nhà giả kim</title>
+        <author>Paulo Coelho</author>
+        <year>1988</year>
+        <genre>Tiểu thuyết</genre>
+    </book>
+
+    <book bookId="B003">
+        <title>Đắc nhân tâm</title>
+        <author>Dale Carnegie</author>
+        <year>1936</year>
+        <genre>Kỹ năng sống</genre>
+    </book>
+
+    <book bookId="B004">
+        <title>Cuộc đời của Pi</title>
+        <author>Yann Martel</author>
+        <year>2001</year>
+        <genre>Phiêu lưu</genre>
+    </book>
+
+    <book bookId="B005">
+        <title>Bí mật của trí nhớ siêu phàm</title>
+        <author>Trần Lập</author>
+        <year>2018</year>
+        <genre>Tâm lý học</genre>
+    </book>
+
+    <book bookId="B006">
+        <title>Sử Việt</title>
+        <author>Tạ Chí Đại Trường</author>
+        <year>1999</year>
+        <genre>Lịch sử</genre>
+    </book>
+
+    <book bookId="B007">
+        <title>Dune - Xứ cát</title>
+        <author>Frank Herbert</author>
+        <year>1965</year>
+        <genre>Khoa học viễn tưởng</genre>
+    </book>
+
+</library>
